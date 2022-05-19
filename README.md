@@ -1,4 +1,4 @@
-([FLUTTER + DART]!(https://user-images.githubusercontent.com/69623904/169291127-3d765e00-956d-4c53-b3a3-48c1c77c9697.png)
+(![FLUTTER + DART](https://user-images.githubusercontent.com/69623904/169291127-3d765e00-956d-4c53-b3a3-48c1c77c9697.png)
 
 
 # Bitcoin Ticker 🤑
