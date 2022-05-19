@@ -12,7 +12,8 @@ The objective of this app is to learn about using Cupertino and Material Widgets
 
 I am going to make a crypto currency price checking app. By the end of the module, Ill be able to monitor crypto prices on the move!
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+![Finished App](https://user-images.githubusercontent.com/69623904/169291770-715b6422-2b9c-46b1-8a61-fe1179cefcdf.gif)
+
 
 ## What my brain will get
 
